@@ -14,7 +14,7 @@ A terminal-based Python toolkit for text encryption, image encryption, and passw
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
  
 </div>
----
+
  
 ## 📖 Table of Contents
  
@@ -100,7 +100,7 @@ Confirmation (Y/N): Y
  
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/Pranjal01819/SecureSphere>
 cd securesphere
  
 # Install dependencies
